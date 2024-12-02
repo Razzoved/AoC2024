@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp", "fsharp\fsharp.fsproj", "{86267139-E07D-4E09-A857-1444B2901CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp", "csharp\csharp.csproj", "{27ABF64B-AC34-41AA-9891-B12740B33ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86267139-E07D-4E09-A857-1444B2901CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86267139-E07D-4E09-A857-1444B2901CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86267139-E07D-4E09-A857-1444B2901CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86267139-E07D-4E09-A857-1444B2901CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ABF64B-AC34-41AA-9891-B12740B33ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ABF64B-AC34-41AA-9891-B12740B33ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ABF64B-AC34-41AA-9891-B12740B33ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ABF64B-AC34-41AA-9891-B12740B33ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
